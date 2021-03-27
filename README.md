@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![dingtalk](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=dingtalk&theme=jolly)](https://github.com/zhaoyunxing92/dingtalk) [![spring-boot-learn-box](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=spring-boot-learn-box&theme=jolly)](https://github.com/zhaoyunxing92/spring-boot-learn-box)
