@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zhaoyunxing92&theme=jolly&show_icons=true)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zhaoyunxing92&theme=jolly&show_icons=true&count_private=true&include_all_commits)
