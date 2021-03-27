@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zhaoyunxing92&theme=jolly&show_icons=true&count_private=true&include_all_commits=true)
 
-[![dingtalk](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=dingtalk&theme=jolly)](https://github.com/zhaoyunxing92/dingtalk)
+[![dingtalk](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=dingtalk&theme=jolly&layout=compact)](https://github.com/zhaoyunxing92/dingtalk)
+
+[![spring-boot-learn-box](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=spring-boot-learn-box&theme=jolly)](https://github.com/zhaoyunxing92/spring-boot-learn-box)
+
+
+[![dingtalk](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=dingtalk&theme=jolly&layout=compact)](https://github.com/zhaoyunxing92/dingtalk)
+
+[![spring-boot-learn-box](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=spring-boot-learn-box&theme=jolly)](https://github.com/zhaoyunxing92/spring-boot-learn-box)
+
+
+[![dingtalk](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=dingtalk&theme=jolly&layout=compact)](https://github.com/zhaoyunxing92/dingtalk)
 
 [![spring-boot-learn-box](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyunxing92&repo=spring-boot-learn-box&theme=jolly)](https://github.com/zhaoyunxing92/spring-boot-learn-box)
